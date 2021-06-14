@@ -1,0 +1,1 @@
+Este é o repositório do curso Raspberry Pi Pico do Gabinete Tecnológico.
